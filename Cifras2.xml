@@ -1,0 +1,272 @@
+<cifras>
+    <cifra id="1">
+        <latin>Do</latin>
+        <grego>C</grego>
+                <nota1>C</nota1>
+                <nota2>C#</nota2>
+                <nota3>D</nota3>
+                <nota4>D#</nota4>
+                <nota5>E</nota5>
+                <nota6>F</nota6>
+                <nota7>F#</nota7>
+                <nota8>G</nota8>
+                <nota9>G#</nota9>
+                <nota10>A</nota10>
+                <nota11>A#</nota11>
+                <nota12>B</nota12>
+
+    </cifra>
+    <cifra id="2">
+        <latin>Do#</latin>
+        <grego>C#</grego>
+
+                <nota1>C#</nota1>
+                <nota2>D</nota2>
+                <nota3>D#</nota3>
+                <nota4>E</nota4>
+                <nota5>F</nota5>
+                <nota6>F#</nota6>
+                <nota7>G</nota7>
+                <nota8>G#</nota8>
+                <nota9>A</nota9>
+                <nota10>A#</nota10>
+                <nota11>B</nota11>
+                <nota12>C</nota12>
+
+    </cifra>
+    <cifra id="3">
+        <latin>Reb</latin>
+        <grego>Db</grego>
+
+                <nota1>Db</nota1>
+                <nota2>D</nota2>
+                <nota3>Eb</nota3>
+                <nota4>E</nota4>
+                <nota5>F</nota5>
+                <nota6>Gb</nota6>
+                <nota7>G</nota7>
+                <nota8>Ab</nota8>
+                <nota9>A</nota9>
+                <nota10>Bb</nota10>
+                <nota11>B</nota11>
+                <nota12>C</nota12>
+
+    </cifra>
+    <cifra id="4">
+        <latin>Re</latin>
+        <grego>D</grego>
+
+                <nota1>D</nota1>
+                <nota2>D#</nota2>
+                <nota3>E</nota3>
+                <nota4>F</nota4>
+                <nota5>F#</nota5>
+                <nota6>G</nota6>
+                <nota7>G#</nota7>
+                <nota8>A</nota8>
+                <nota9>A#</nota9>
+                <nota10>B</nota10>
+                <nota11>C</nota11>
+                <nota12>C#</nota12>
+
+    </cifra>    
+    <cifra id="5">
+        <latin>Re#</latin>
+        <grego>D#</grego>
+
+                <nota1>D#</nota1>
+                <nota2>E</nota2>
+                <nota3>F</nota3>
+                <nota4>F#</nota4>
+                <nota5>G</nota5>
+                <nota6>G#</nota6>
+                <nota7>A</nota7>
+                <nota8>A#</nota8>
+                <nota9>B</nota9>
+                <nota10>C</nota10>
+                <nota11>C#</nota11>
+                <nota12>D</nota12>
+
+    </cifra>
+    <cifra id="6">
+        <latin>Mib</latin>
+        <grego>Eb</grego>
+
+                <nota1>Eb</nota1>
+                <nota2>E</nota2>
+                <nota3>F</nota3>
+                <nota4>Gb</nota4>
+                <nota5>G</nota5>
+                <nota6>Ab</nota6>
+                <nota7>A</nota7>
+                <nota8>Bb</nota8>
+                <nota9>B</nota9>
+                <nota10>C</nota10>
+                <nota11>Db</nota11>
+                <nota12>D</nota12>
+
+    </cifra>    
+    <cifra id="7">
+        <latin>Mi</latin>
+        <grego>E</grego>
+
+                <nota1>E</nota1>
+                <nota2>F</nota2>
+                <nota3>F#</nota3>
+                <nota4>G</nota4>
+                <nota5>G#</nota5>
+                <nota6>A</nota6>
+                <nota7>A#</nota7>
+                <nota8>B</nota8>
+                <nota9>C</nota9>
+                <nota10>C#</nota10>
+                <nota11>D</nota11>
+                <nota12>D#</nota12>
+
+    </cifra>
+    <cifra id="8">
+        <latin>Fa</latin>
+        <grego>F</grego>
+
+                <nota1>F</nota1>
+                <nota2>Gb</nota2>
+                <nota3>G</nota3>
+                <nota4>Ab</nota4>
+                <nota5>A</nota5>
+                <nota6>Bb</nota6>
+                <nota7>B</nota7>
+                <nota8>C</nota8>
+                <nota9>Db</nota9>
+                <nota10>D</nota10>
+                <nota11>Eb</nota11>
+                <nota12>E</nota12>
+
+    </cifra> 
+    <cifra id="9">
+        <latin>Fa#</latin>
+        <grego>F#</grego>
+
+                <nota1>F#</nota1>
+                <nota2>G</nota2>
+                <nota3>G#</nota3>
+                <nota4>A</nota4>
+                <nota5>A#</nota5>
+                <nota6>B</nota6>
+                <nota7>C</nota7>
+                <nota8>C#</nota8>
+                <nota9>D</nota9>
+                <nota10>D#</nota10>
+                <nota11>E</nota11>
+                <nota12>F</nota12>
+
+    </cifra>
+    <cifra id="10">
+        <latin>Solb</latin>
+        <grego>Gb</grego>
+
+                <nota1>Gb</nota1>
+                <nota2>G</nota2>
+                <nota3>Ab</nota3>
+                <nota4>A</nota4>
+                <nota5>Bb</nota5>
+                <nota6>B</nota6>
+                <nota7>C</nota7>
+                <nota8>Db</nota8>
+                <nota9>D</nota9>
+                <nota10>Eb</nota10>
+                <nota11>E</nota11>
+                <nota12>F</nota12>
+
+    </cifra>
+    <cifra id="11">
+        <latin>Sol</latin>
+        <grego>G</grego>
+
+                <nota1>G</nota1>
+                <nota2>G#</nota2>
+                <nota3>A</nota3>
+                <nota4>A#</nota4>
+                <nota5>B</nota5>
+                <nota6>C</nota6>
+                <nota7>C#</nota7>
+                <nota8>D</nota8>
+                <nota9>D#</nota9>
+                <nota10>E</nota10>
+                <nota11>F</nota11>
+                <nota12>F#</nota12>
+
+    </cifra> 
+    <cifra id="12">
+        <latin>Lab</latin>
+        <grego>Ab</grego>
+
+                <nota1>Ab</nota1>
+                <nota2>A</nota2>
+                <nota3>Bb</nota3>
+                <nota4>B</nota4>
+                <nota5>C</nota5>
+                <nota6>Db</nota6>
+                <nota7>D</nota7>
+                <nota8>Eb</nota8>
+                <nota9>E</nota9>
+                <nota10>F</nota10>
+                <nota11>Gb</nota11>
+                <nota12>G</nota12>
+
+    </cifra> 
+    <cifra id="13">
+        <latin>La</latin>
+        <grego>A</grego>
+
+                <nota1>A</nota1>
+                <nota2>A#</nota2>
+                <nota3>B</nota3>
+                <nota4>C</nota4>
+                <nota5>C#</nota5>
+                <nota6>D</nota6>
+                <nota7>D#</nota7>
+                <nota8>E</nota8>
+                <nota9>F</nota9>
+                <nota10>F#</nota10>
+                <nota11>G</nota11>
+                <nota12>G#</nota12>
+
+    </cifra>       
+    <cifra id="14">
+        <latin>Sib</latin>
+        <grego>Bb</grego>
+
+                <nota1>Bb</nota1>
+                <nota2>B</nota2>
+                <nota3>C</nota3>
+                <nota4>Db</nota4>
+                <nota5>D</nota5>
+                <nota6>Eb</nota6>
+                <nota7>E</nota7>
+                <nota8>F</nota8>
+                <nota9>Gb</nota9>
+                <nota10>G</nota10>
+                <nota11>Ab</nota11>
+                <nota12>A</nota12>
+
+    </cifra>
+    <cifra id="15">
+        <latin>Si</latin>
+        <grego>B</grego>
+ 
+                <nota1>B</nota1>
+                <nota2>C</nota2>
+                <nota3>C#</nota3>
+                <nota4>D</nota4>
+                <nota5>D#</nota5>
+                <nota6>E</nota6>
+                <nota7>F</nota7>
+                <nota8>F#</nota8>
+                <nota9>G</nota9>
+                <nota10>G#</nota10>
+                <nota11>A</nota11>
+                <nota12>A#</nota12>
+
+    </cifra>      
+
+</cifras>
